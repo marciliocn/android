@@ -1,2 +1,2 @@
 # android
-Resourses for Android apps config
+Resources for Android apps config
